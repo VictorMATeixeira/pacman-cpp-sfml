@@ -6,8 +6,7 @@ Um clone moderno e funcional do clássico arcade **Pac-Man**, desenvolvido em **
 
 ## 📸 Demonstração
 
-![Pac-Man Gameplay](imagem-do-jogo.png)
-*(Substitua "imagem-do-jogo.png" pelo nome do arquivo do print do seu jogo no repositório)*
+![Pac-Man Gameplay](IngamePacman.png)
 
 ---
 
